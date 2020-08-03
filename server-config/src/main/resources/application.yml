@@ -18,8 +18,8 @@ spring:
       server:
         git:
           uri: https://github.com/xiachengli/server-config-repo.git #配置git服务地址
-          username: 1324952217@qq.com #配置git用户名
-          password: 18508534589yang #配置git密码
+          username:  #配置git用户名
+          password:  #配置git密码
           search-paths:
             - server-config-repo
       # 读取分支
